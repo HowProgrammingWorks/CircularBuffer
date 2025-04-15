@@ -1,2 +1,1 @@
-# CircularBuffer
-CircularBuffer for JavaScript and TypeScript
+# CircularBuffer for JavaScript and TypeScript
